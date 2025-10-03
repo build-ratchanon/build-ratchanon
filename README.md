@@ -3,25 +3,25 @@
 🚀 Frontend Developer | 💻 Next.js + React
 
 ## Contact us at
-- <img align="center" src="https://cdn.svglogos.dev/logos/facebook.svg" width="48px" /> [My Facebook](https://www.facebook.com/Build.Ratchanon)
-- <img align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48px" /> [My Instagram](https://www.instagram.com/__bbuild.in?igsh=MWx1OTNib250OG1tbw%3D%3D&utm_source=qr)
-- <img align="center" src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="48px" /> [My Gmail](mailto:ratchanontip@gmail.com)
-- <img align="center" src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="48px" /> [My LinkedIn](https://www.linkedin.com/in/ratchanon-tipaksorn-179740292/)
+- <img align="center" src="https://cdn.svglogos.dev/logos/facebook.svg" width="48px" />  [My Facebook](https://www.facebook.com/Build.Ratchanon)
+- <img align="center" src="https://cdn.svglogos.dev/logos/instagram-icon.svg" width="48px" />  [My Instagram](https://www.instagram.com/__bbuild.in?igsh=MWx1OTNib250OG1tbw%3D%3D&utm_source=qr)
+- <img align="center" src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="48px" />  [My Gmail](mailto:ratchanontip@gmail.com)
+- <img align="center" src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="48px" />  [My LinkedIn](https://www.linkedin.com/in/ratchanon-tipaksorn-179740292/)
 
 # What I'm coding with?
 ## Languages
-- <img align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48px" /> [TypeScript](https://www.typescriptlang.org/)
-- <img align="center" src="https://cdn.svgporn.com/logos/javascript.svg" width="48px" /> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- <img align="center" src="https://cdn.svglogos.dev/logos/html-5.svg" width="48px" /> [Html](https://html.spec.whatwg.org/multipage/)
-- <img align="center" src="https://cdn.svgporn.com/logos/javascript.svg" width="48px" /> [CSS](https://www.w3.org/TR/css/)
+- <img align="center" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48px" />  [TypeScript](https://www.typescriptlang.org/)
+- <img align="center" src="https://cdn.svgporn.com/logos/javascript.svg" width="48px" />  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- <img align="center" src="https://cdn.svglogos.dev/logos/html-5.svg" width="48px" />  [Html](https://html.spec.whatwg.org/multipage/)
+- <img align="center" src="https://cdn.svglogos.dev/logos/css-3.svg" width="48px" />  [CSS](https://www.w3.org/TR/css/)
 
 ## Framworks
-- <img align="center" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="48px" /> [Next](https://nextjs.org/)
-- <img align="center" src="https://cdn.svgporn.com/logos/react.svg" width="48px" /> [React](https://react.dev/)
-- <img align="center" src="https://cdn.svgporn.com/logos/nodejs-icon-alt.svg" width="48px" /> [Node](https://nodejs.org/en)
-- <img align="center" src="https://cdn.svgporn.com/logos/material-ui.svg" width="48px" /> [Material UI](https://mui.com/)
-- <img align="center" src="https://cdn.svglogos.dev/logos/tailwindcss-icon.svg" width="48px" /> [Tailwind](https://tailwindcss.com/)
-- <img align="center" src="https://cdn.svglogos.dev/logos/astro-icon.svg" width="48px" /> [Astro](https://astro.build/)
+- <img align="center" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="48px" />  [Next](https://nextjs.org/)
+- <img align="center" src="https://cdn.svgporn.com/logos/react.svg" width="48px" />  [React](https://react.dev/)
+- <img align="center" src="https://cdn.svgporn.com/logos/nodejs-icon-alt.svg" width="48px" />  [Node](https://nodejs.org/en)
+- <img align="center" src="https://cdn.svgporn.com/logos/material-ui.svg" width="48px" />  [Material UI](https://mui.com/)
+- <img align="center" src="https://cdn.svglogos.dev/logos/tailwindcss-icon.svg" width="48px" />  [Tailwind](https://tailwindcss.com/)
+- <img align="center" src="https://cdn.svglogos.dev/logos/astro-icon.svg" width="48px" />  [Astro](https://astro.build/)
 
 ## Others Tech Skill
 <div align="center">
